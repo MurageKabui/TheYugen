@@ -1,0 +1,26 @@
+{
+  "name": "com.nav.hardcore",
+  "displayName": "NavHardCore",
+  "version": "1.0.0",
+  "description": "Cool navvvv",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-vibration": {},
+      "cordova-plugin-tts-advanced": {}
+    }
+  },
+  "devDependencies": {
+    "cordova-android": "^10.1.2",
+    "cordova-plugin-dialogs": "^2.0.2",
+    "cordova-plugin-splashscreen": "^6.0.2",
+    "cordova-plugin-statusbar": "^3.0.0",
+    "cordova-plugin-tts-advanced": "^0.5.2",
+    "cordova-plugin-vibration": "^3.1.1"
+  }
+}
